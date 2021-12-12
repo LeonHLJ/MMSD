@@ -54,11 +54,9 @@ You can easily train the model by running the provided script.
 - Run the command below.
 
 ~~~~
-$ python train_main.py --run-type 0 --model-id 1   # rgb stream
-$ python train_main.py --run-type 1 --model-id 2   # flow stream
+$ python train_main.py --run-type 0 --model-id 1
 ~~~~
 
-Make sure you use different `model-id` for RGB and optical flow.
 Models are saved in `./ckpt/dataset_name/model_id/`
 
 ### Evaulation
