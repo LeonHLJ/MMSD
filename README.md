@@ -1,4 +1,4 @@
-# MMSV
+# MMSD
 
 > **Multi-Modality Self-Distillation for Weakly Supervised Temporal Action Localization**<br>
 > Linjiang Huang (CUHK), Liang Wang (CASIA), Hongsheng Li (CUHK)
