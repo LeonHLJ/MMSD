@@ -26,9 +26,10 @@ We propose a pseudo-label-based methods by taking full advantages of multiple mo
 | [HAM-Net](https://arxiv.org/pdf/2101.00545) | 65.4 | 59.0 | 50.3 | 41.1 | 31.0 | 20.7 | 11.1 | 39.8 |
 | [ACSNet](https://arxiv.org/pdf/2103.15088) | - | - | 51.4 | 42.7 | 32.4 | 22.0 | 11.7 | - |
 | [WUM](https://arxiv.org/abs/2006.07006) | 67.5 | 61.2 | 52.3 | 43.4 | 33.7 | 22.9 | 12.1 | 41.9 |
-| [AUMN](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Action_Unit_Memory_Network_for_Weakly_Supervised_Temporal_Action_Localization_CVPR_2021_paper.pdf) | 66.2 | 61.9 | 54.9 | 44.4 | 33.3 | 20.5 | 9.0 | 41.5 |
+| [AUMN](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Action_Unit_Memory_Network_for_Weakly_Supervised_Temporal_Action_Localization_CVPR_2021_paper.pdf) | 66.2 | 61.9 | **54.9** | 44.4 | 33.3 | 20.5 | 9.0 | 41.5 |
 | [CoLA](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_CoLA_Weakly-Supervised_Temporal_Action_Localization_With_Snippet_Contrastive_Learning_CVPR_2021_paper.pdf) | 66.2 | 59.5 | 51.5 | 41.9 | 32.2 | 22.0 | 13.1 | 40.9 |
-| **MMSD (Ours)** | **67.6** | **62.1** | **52.6** | **44.3** | 33.4 | 22.5 | 12.7 | **42.2** |
+| [ASL](https://arxiv.org/abs/2006.07006) | 67.0 | - | 51.8 | - | 31.1 | - | 11.4 | - |
+| **MMSD (Ours)** | **69.7** | **64.3** | 54.8 | **45.0** | **36.4** | **23.1** | 12.3 | **43.7** |
 
 ## Prerequisites
 ### Recommended Environment
