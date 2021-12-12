@@ -62,7 +62,7 @@ Models are saved in `./ckpt/dataset_name/model_id/`
 ### Evaulation
 
 #### 
-The trained model can be found [here](https://drive.google.com/drive/folders/1XMkyHwtZFJP4CZwK3qBfjrkvJ_RNeUxQ?usp=sharing). Please change the file name to xxx.pkl (e.g., 240.pkl) and put it into `./ckpt/dataset_name/model_id/`.
+The trained model can be found [here](https://drive.google.com/file/d/1oryQz0VR4RIA21oSKADFCZi3M8-0ViZP/view?usp=sharing). Please put it into `./ckpt/dataset_name/model_id/`.
 
 - Run the command below.
 
