@@ -2,6 +2,8 @@
 
 > **Multi-Modality Self-Distillation for Weakly Supervised Temporal Action Localization**<br>
 > Linjiang Huang (CUHK), Liang Wang (CASIA), Hongsheng Li (CUHK)
+>
+> TIP
 
 ## Overview
 We propose a pseudo-label-based methods by taking full advantages of multiple modalities, i.e., RGB and optical flow sequences, to generate high quality pseudo labels. The experimental results on THUMOS14 are as below.
